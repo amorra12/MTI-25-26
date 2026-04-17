@@ -3,6 +3,7 @@ from random import randint
 sceltacontinua = "s"
 while sceltacontinua == "s":
 
+
     punteggio_giocatore = 0.0
     punteggio_banco = 0.0
 
